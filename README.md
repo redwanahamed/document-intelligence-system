@@ -1,4 +1,3 @@
-# document-intelligence-system
 # AI-Powered Document Intelligence System
 
 A production-structured platform for processing, extracting, validating, and reviewing invoice documents. Supports PDF (digital and scanned), JPG, PNG, TIFF, XLSX, XLS, and CSV.
