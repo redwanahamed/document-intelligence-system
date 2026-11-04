@@ -1,0 +1,4 @@
+2026-11-04 06:58:07 +06 LOG:  database system was shut down at 2026-11-04 06:55:57 +06
+2026-11-04 06:59:54 +06 LOG:  shutting down
+2026-11-04 06:59:54 +06 LOG:  checkpoint starting: shutdown immediate
+2026-11-04 06:59:54 +06 LOG:  checkpoint complete: wrote 0 buffers (0.0%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.003 s, total=0.024 s; sync files=2, longest=0.002 s, average=0.002 s; distance=0 kB, estimate=0 kB; lsn=0/1849088, redo lsn=0/1849088
